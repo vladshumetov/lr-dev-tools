@@ -1,0 +1,36 @@
+.category {
+    min-width: 100%;
+}
+
+.category__title {
+    margin-top: 2%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.category>.menu {
+    padding-bottom: 2%;
+}
+
+.card-header__delete {
+    display: inline-block;
+    float: right;
+}
+
+.card-header__delete__link {
+    text-decoration: none;
+    color: black;
+}
+
+.world_editor_form {
+    /*display: flex;*/
+    padding: 40px 40px 1% 40px;
+}
+
+.world_editor_label {
+    margin: 5px 0px;
+}
+
+.image__map {
+    display: inline-block;
+}
